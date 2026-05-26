@@ -1,0 +1,5 @@
+com\example\bfhl\model\GenerateWebhookResponse.class
+com\example\bfhl\service\ApiService.class
+com\example\bfhl\BfhlApplication.class
+com\example\bfhl\model\GenerateWebhookRequest.class
+com\example\bfhl\model\FinalQueryRequest.class
